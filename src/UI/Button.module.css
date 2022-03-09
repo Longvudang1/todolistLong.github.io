@@ -1,0 +1,27 @@
+.button {
+    border: 1px solid #4f005f;
+    background: #4f005f;
+    color: white;
+    cursor: pointer;
+    margin : 0.5rem;
+    padding: 5px;
+    width: fit-content;
+    font-family: 'Gochi Hand', cursive;
+    text-align: center;
+
+
+    
+  }
+  
+  .button:hover,
+  .button:active {
+    background: #741188;
+    border-color: #741188;
+    
+  }
+  
+  .button:focus {
+    
+    outline: none;
+  }
+  
